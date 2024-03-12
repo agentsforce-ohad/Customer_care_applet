@@ -5,7 +5,7 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 
-csv_file_path = "/Users/joaomontenegro/Documents/Projects/Customer_care_applet/monthly_tickets_and_costs_baseline.csv"
+csv_file_path = "monthly_tickets_and_costs_baseline.csv"
 
 # Function to load the baseline data from CSV
 def load_baseline_data(csv_file_path):
